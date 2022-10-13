@@ -1,0 +1,20 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aymanbagabas/shcopy/releases/download/v0.1.1/shcopy_0.1.1_Windows_i386.zip",
+            "bin": [
+                "shcopy.exe"
+            ],
+            "hash": "e8bd1ed0685474f93408640e53913420a7a938eb2058f0ec7ec75a12489a144d"
+        },
+        "64bit": {
+            "url": "https://github.com/aymanbagabas/shcopy/releases/download/v0.1.1/shcopy_0.1.1_Windows_x86_64.zip",
+            "bin": [
+                "shcopy.exe"
+            ],
+            "hash": "db01f0c9dc47af084586c90dc5938ab66045266ea60263a7b2498260c8cc5fb8"
+        }
+    },
+    "homepage": "https://github.com/aymanbagabas/shcopy"
+}
