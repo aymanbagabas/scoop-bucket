@@ -1,0 +1,15 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/aymanbagabas/drift/releases/download/v0.0.2/drift_0.0.2_windows_amd64.zip",
+            "bin": [
+                "drift.exe"
+            ],
+            "hash": "b1e11032b0e6b86646c4d62f7354ffc102efb7c7ffa262484d0fac52f75f6cde"
+        }
+    },
+    "homepage": "https://github.com/aymanbagabas/drift",
+    "license": "MIT",
+    "description": "A standalone git diff pager for the terminal."
+}
