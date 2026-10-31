@@ -1,12 +1,12 @@
 {
-    "version": "0.0.13",
+    "version": "0.0.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aymanbagabas/drift/releases/download/v0.0.13/drift_0.0.13_windows_amd64.zip",
+            "url": "https://github.com/aymanbagabas/drift/releases/download/v0.0.14/drift_0.0.14_windows_amd64.zip",
             "bin": [
                 "drift.exe"
             ],
-            "hash": "e60a9665c115c86c0239e55f3ecd96c018fcbe3966ffb7ee114de3f31af93450"
+            "hash": "897154df86a5e8ac298fb62341099f1489943d2265c07e0662c798a0c4d42254"
         }
     },
     "homepage": "https://github.com/aymanbagabas/drift",
